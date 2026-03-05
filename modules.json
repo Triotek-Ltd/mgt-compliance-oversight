@@ -1,0 +1,42 @@
+[
+  {
+    "module_code": "mgt8_2",
+    "module_label": "MGT 8.2 - Compliance Monitoring",
+    "module_title": "Compliance Monitoring",
+    "module_slug": "compliance_monitoring",
+    "app_code": "mgt8",
+    "app_label": "MGT 8 - Compliance Oversight",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt8_4",
+    "module_label": "MGT 8.4 - Compliance Violation Management",
+    "module_title": "Compliance Violation Management",
+    "module_slug": "compliance_violation_management",
+    "app_code": "mgt8",
+    "app_label": "MGT 8 - Compliance Oversight",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt8_3",
+    "module_label": "MGT 8.3 - Regulatory Reporting",
+    "module_title": "Regulatory Reporting",
+    "module_slug": "regulatory_reporting",
+    "app_code": "mgt8",
+    "app_label": "MGT 8 - Compliance Oversight",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt8_1",
+    "module_label": "MGT 8.1 - Regulatory Requirement Mapping",
+    "module_title": "Regulatory Requirement Mapping",
+    "module_slug": "regulatory_requirement_mapping",
+    "app_code": "mgt8",
+    "app_label": "MGT 8 - Compliance Oversight",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  }
+]
